@@ -17,5 +17,6 @@ def skip_song():
     time.sleep(1)
     pyautogui.hotkey('ctrl', 'right')
 
+# using pyautogui to automate spotify commands/keyboard shortcuts
 
 
