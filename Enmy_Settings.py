@@ -23,7 +23,7 @@ def find_chrome():
 def find_discord():
     # Common paths
     paths = [
-        r"C:\Users\chari\AppData\Local\Discord\app-1.0.9023\Discord.exe",  # Windows
+        r" ",  # ENTER DISCORD PATH HERE (ADD USER CUSTOMIZATION FOR THIS?) ALSO MAYBE DETECT COMMON DISCORD PATHS
         # Add more paths for different operating systems if needed
     ]
 
